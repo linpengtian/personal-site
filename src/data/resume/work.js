@@ -13,30 +13,26 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    name: 'Glance Creative',
+    position: 'Mobile Developer',
+    url: 'https://thisisglance.com',
+    startDate: '2020-11-09',
+    summary: `Glance is The UK’s Most Trusted App Development Agency. As a mobile developer,
+    I developed 2 Android apps from start and maintained 3 Android/iOS appliations.`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Pixel-Perfect UI implementation',
+      'MVVM design pattern',
+      'Work with Agile/SCRUM based delivery models',
+      'Understand project requirements and convert functional specifications into technical designs',
+      'Create wireframes and mockups of mobile applications',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
+    name: 'Alphacogs',
+    position: 'Mobile Developer',
+    url: 'http://alphacogs.com',
+    startDate: '2021-03-01',
+    endDate: '2022-12-20',
     summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
     YC companies.`,
     highlights: [
